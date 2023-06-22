@@ -35,6 +35,6 @@ contract FintorProxyAdmin is ProxyAdmin {
     constructor(
         address /* owner */
     ) ProxyAdmin() {
-        // We just need this for our hardhat tooling right now
+       
     }
 }
